@@ -33,3 +33,8 @@ Most things that you can do manually in the browser can be done using Puppeteer!
 
 ### Installation
 how to use :
+1) clone project
+2) cd to prject
+3) npm install
+4) "add your hotmail or outlook to hotmail.txt"
+5) node app.js
